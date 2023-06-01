@@ -113,7 +113,7 @@ If you do see the **Start trial** button in your Account manager:
 
 - you might not be able to start a trial if your tenant has exhausted its limit of trial capacities. If that is the case, you have the following options:
 
-    - [Purchase a Fabric capacity from Azure](https://portal.azure.com/)
+    - [Purchase a Fabric capacity from Azure](https://portal.azure.com/) by selecting "Microsoft Fabric" in the search.
 
     - Request another trial capacity user to share their trial capacity with you.
 
