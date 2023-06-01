@@ -117,7 +117,7 @@ If you do see the **Start trial** button in your Account manager:
 
     - Request another trial capacity user to share their trial capacity with you.
 
-    - Reach out to your Power BI administrator to create a CSS request to increase tenant trial capacity limits.
+    - Reach out to your Power BI administrator to engage Microsoft support to increase tenant trial capacity limits.
 
 **In Workplace settings, I can't assign a workspace to the trial capacity**
 
